@@ -1,2 +1,3 @@
 # hello-world
-My first project in Git hub
+My first demo project in Git hub
+
